@@ -1,1 +1,1 @@
-# static web page 
+deploying web page 
